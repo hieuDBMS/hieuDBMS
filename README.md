@@ -5,8 +5,7 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 📍 **Location:** Ho Chi Minh City, Vietnam
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/devops-animation-gif-download-8268591.mp4)" alt="DevOps Animation" width="400"/>
-  <a href="https://iconscout.com/lottie-animations/devops" class="text-underline font-size-sm" target="_blank">Devops</a> by <a href="https://iconscout.com/contributors/saif-rehman" class="text-underline font-size-sm" target="_blank">Design Circle</a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGg1N2ExM3dlbjh5eGpreWRxbnNjMjE4YXk3OWI0eHRpbmM2OGUwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" alt="DevOps Animation" width="400"/>
   <p><i>Building, deploying, and automating... one pipeline at a time 🔧</i></p>
 </div>
 
