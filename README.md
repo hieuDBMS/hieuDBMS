@@ -6,6 +6,7 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 
 <div align="center">
   <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/devops-animation-gif-download-8268591.mp4)" alt="DevOps Animation" width="400"/>
+  <a href="https://iconscout.com/lottie-animations/devops" class="text-underline font-size-sm" target="_blank">Devops</a> by <a href="https://iconscout.com/contributors/saif-rehman" class="text-underline font-size-sm" target="_blank">Design Circle</a>
   <p><i>Building, deploying, and automating... one pipeline at a time 🔧</i></p>
 </div>
 
@@ -16,7 +17,6 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 - 🎓 **Computer Science Graduate** from Ton Duc Thang University (GPA: 3.18/4.0)
 - 💻 **DevOps Engineer** with a Full Stack Developer background
 - 🔄 Passionate about **automation, CI/CD, and infrastructure as code**
-- 🌱 Currently working at **FIS - FPT Information System**
 - 🎯 Values **quality over quantity** and believes good software is never cheap
 
 ---
