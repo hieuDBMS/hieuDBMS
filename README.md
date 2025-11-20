@@ -5,7 +5,7 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 📍 **Location:** Ho Chi Minh City, Vietnam
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGg1N2ExM3dlbjh5eGpreWRxbnNjMjE4YXk3OWI0eHRpbmM2OGUwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" alt="DevOps Animation" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps Animation" width="400"/>
   <p><i>Building, deploying, and automating... one pipeline at a time 🔧</i></p>
 </div>
 
@@ -47,16 +47,20 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 **Observability:** Prometheus, Grafana (Centralized Monitoring)  
 **Logging Stack:** Elasticsearch, Fluent Bit, Kibana (EFK)
 
-### 💻 Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Development & Full Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Backend:** Java, Spring Boot, REST APIs, Microservices Architecture  
+**Frontend:** React.js, JavaScript, HTML5, CSS3  
 **Languages:** Python, JavaScript, Java, Bash, Groovy  
 **Database:** PostgreSQL  
-**Background:** Full Stack Development (REST APIs, Microservices, Clean Code)
+**Architecture:** Clean Code Principles, RESTful API Design, MVC Pattern
 
 ---
 
@@ -112,6 +116,7 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieuminh.datas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieuminhnguyendev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
 
