@@ -5,7 +5,7 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 📍 **Location:** Ho Chi Minh City, Vietnam
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps Animation" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGg1N2ExM3dlbjh5eGpreWRxbnNjMjE4YXk3OWI0eHRpbmM2OGUwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXr3j6YAClXFfZABn5/giphy.gif" alt="DevOps Animation" width="400"/>
   <p><i>Building, deploying, and automating... one pipeline at a time 🔧</i></p>
 </div>
 
@@ -56,11 +56,11 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend:** Java, Spring Boot, REST APIs, Microservices Architecture  
-**Frontend:** React.js, JavaScript, HTML5, CSS3  
+**Backend:** Spring Boot 
+**Frontend:** React.js 
 **Languages:** Python, JavaScript, Java, Bash, Groovy  
-**Database:** PostgreSQL  
-**Architecture:** Clean Code Principles, RESTful API Design, MVC Pattern
+**Database:** PostgreSQL, Oracle
+**Architecture:** RESTful API, Microservices 
 
 ---
 
@@ -104,19 +104,10 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hieuminhnguyendev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuminhnguyendev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
-
----
-
 ## 🔗 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieuminh.datas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieuminhnguyendev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
 
