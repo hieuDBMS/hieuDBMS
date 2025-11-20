@@ -56,11 +56,11 @@ I'm **Hieu Minh Nguyen** (hieuminhnguyendev)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend:** Spring Boot 
-**Frontend:** React.js 
+**Backend:** Spring Boot  
+**Frontend:** React.js  
 **Languages:** Python, JavaScript, Java, Bash, Groovy  
-**Database:** PostgreSQL, Oracle
-**Architecture:** RESTful API, Microservices 
+**Database:** PostgreSQL, Oracle  
+**Architecture:** RESTful API, Microservices
 
 ---
 
