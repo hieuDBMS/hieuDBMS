@@ -1,6 +1,6 @@
 # 👋 Hello everyone!
 
-I'm **Hieu Minh Nguyen** (hieuminhnguyendev) 🚀  
+I'm **Hieu Minh Nguyen** (hieuminhnguyendev)
 📧 **Email:** hieuminh.datas@gmail.com  
 📍 **Location:** Ho Chi Minh City, Vietnam
 
